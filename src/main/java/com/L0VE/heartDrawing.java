@@ -9,6 +9,7 @@ public class heartDrawing {
         //ADD STUFF
 
         bird.setMove("F", 20 , 100);
+        bird.setMove("B", 15, 100);
         bird.stop();
         bird.disconnect();
     }
